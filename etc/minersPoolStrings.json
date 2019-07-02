@@ -231,5 +231,12 @@
          "BTCChina Pool",
          "btcchina.com"
       ]
+   },
+   {
+      "poolName":"CVMU",
+      "url":"https://cvmu.jp/",
+      "searchStrings":[
+         "cvmu.jp"
+      ]
    }
 ]
